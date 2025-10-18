@@ -9,6 +9,6 @@
 /// - Mobile deep links
 /// - Plus codes
 /// - International Google domain variants
-library google_maps_extractor;
+library;
 
 export 'src/google_maps_extractor_base.dart';
