@@ -1,5 +1,5 @@
 name: google_maps_extractor
-description: A starting point for Dart libraries or applications.
+description: A comprehensive Flutter package for extracting coordinates and metadata from Google Maps URLs. Supports **21 different URL formats** including shortened URLs, place links, directions, and more.
 version: 1.0.0
 # repository: https://github.com/my_org/my_repo
 
